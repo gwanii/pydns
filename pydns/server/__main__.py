@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# coding=utf-8
 import argparse, logging, asyncio
 from . import DNSServer
 from ..resolver import AsyncProxyResolver

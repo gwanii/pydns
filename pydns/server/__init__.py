@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# coding=utf-8
 import asyncio
 from .. import DNSMessage, UDP, InternetProtocol
 from .. import utils, resolver
